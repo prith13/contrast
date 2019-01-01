@@ -1,6 +1,6 @@
-title: ""
+title: "Prithvi Gandhi / Data Science"
 author: ""
-description: ""
+description: "Personal Data Science Blog"
 
 # Jekyll settings
 permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
@@ -8,7 +8,7 @@ paginate: 2                  # number of articles per page, remove to disable pa
 excerpt_separator: "\n\n\n"  # indicates the end of the excerpt by two blank lines
 
 # Page settings
-show_excerpts: true          # show article previews on the home page instead of headlines
+show_excerpts: false          # show article previews on the home page instead of headlines
 hide_title: false            # remove site heading in the header
 post_footer: true            # show previous and next links at the end of each post
 date_format: "%B %d, %Y"     # see http://shopify.github.io/liquid/filters/date/
@@ -24,8 +24,9 @@ navigation:                  # (optional) site navigation in the header
   - about.md
 
 icons:                       # (optional) fontawesome icons in the header
-  envelope: "mailto:"
-  github: "https://github.com"
+  envelope: "mailto:prithvi1313@gmail.com"
+  github: "https:/prith13.github.com"
+  linkedin: "https://www.linkedin.com/in/prithvi-gandhi/"
   rss: "/feed.xml"
 
 comments:                    # embed disqus or isso comments
