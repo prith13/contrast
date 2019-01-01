@@ -3,8 +3,6 @@ title: "About Me"
 
 ---
 
-### About Me
-
 I'm a data scientist who is passionate about using data science to improve the world and solve real-world problems. I love working on data side-projects and my favorite tools are Python and SQL. 
 
 ### My life

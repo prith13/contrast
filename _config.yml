@@ -1,4 +1,4 @@
-title: "Prithvi Gandhi / Data Science"
+title: "Prithvi Gandhi / Personal Data Science Blog"
 author: ""
 description: "Personal Data Science Blog"
 
@@ -27,6 +27,7 @@ icons:                       # (optional) fontawesome icons in the header
   envelope: "mailto:prithvi1313@gmail.com"
   github: "https:/prith13.github.com"
   linkedin: "https://www.linkedin.com/in/prithvi-gandhi/"
+  twitter: "https://twitter.com/prithnpixels"
   rss: "/feed.xml"
 
 comments:                    # embed disqus or isso comments
