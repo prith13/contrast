@@ -27,7 +27,7 @@ Inactive chapters are chapters that have no digital presence in 2018: no Meetup.
 
 Any chapter that doesn’t fall into the above categories is categorized as 'unsure'. 
 
-All the data visualizations in the [PyLadies overview](https://prith13.github.io/posts/2018/11/pyladies-overview/) include chapters that are active and unsure based on the breakdown explained above. 
+All the data visualizations in the [PyLadies overview](https://prith13.github.io/posts/2018/11/pyladies-overview/) include chapters labeled active and unsure based on the breakdown explained above. 
 
 Here are the numbers for the categories:
 
@@ -42,6 +42,9 @@ Here are the numbers for the categories:
 |Unsure                      | 7             |
 
 
+Here is a geo-plot of the USA with all the active PyLadies chapters by member size. 
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSZ43BtIGafeUkbNpRzJbykFdjzXoz5qGEsLxjHCrAkUjexkEE6AS-j6c20tY0dKoPjXHPTW-ITWnxj/pubchart?oid=541051910&amp;format=interactive"></iframe>
 
 
 
